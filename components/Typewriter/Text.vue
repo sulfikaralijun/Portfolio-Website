@@ -33,7 +33,7 @@ onMounted(() => {
   const typewriter = new Typewriter(typewriterElement.value, {
     autoStart: true,
     cursor: "|",
-    delay: 10,
+    delay: 75,
     loop: false,
   });
 
